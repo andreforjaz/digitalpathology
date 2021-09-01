@@ -1,2 +1,6 @@
 numpy
 scipy
+pillow
+pandas
+
+##  pip install -r requirements.txt
